@@ -56,17 +56,15 @@ Explored network traffic classifications and patterns, including darknet traffic
 
 **Tools:** Tableau, data analysis, dashboard design.
 
-> A direct repository link will be added once I'm finish with the project.
+> This project is in progress. A repository link will be added when it is published.
 
-### 👥 HR Employee Attrition Analysis
+### 👥 [HR Employee Attrition Analysis](https://github.com/raphielcodez/ibm-hr-employee-attrition-excel)
 
 An Excel portfolio project using IBM's fictional HR employee attrition dataset to examine workforce composition and patterns associated with employee exits.
 
 **What it explores:** data preparation, readable analysis fields, formulas, PivotTables, KPIs, and dashboard reporting.
 
 **Tools:** Microsoft Excel.
-
-> This project is in progress. A repository link will be added when it is published.
 
 ### 🕸️ Web Scraper
 

@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <img src="assets/profile-banner.png" alt="Raphiel Collins — Data Analytics, Programming, Technology" width="100%" />
 

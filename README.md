@@ -56,7 +56,7 @@ Explored network traffic classifications and patterns, including darknet traffic
 
 **Tools:** Tableau, data analysis, dashboard design.
 
-> A direct repository link will be added once the public repository URL is confirmed.
+> A direct repository link will be added once I'm finish with the project.
 
 ### 👥 HR Employee Attrition Analysis
 
